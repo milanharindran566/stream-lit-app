@@ -1,0 +1,82 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+2025-05-01,Online Purchase,125.50,INR,Debit,SETTLED
+02/05/2025,Salary Deposit,"35,000.00",INR,SETTLED,
+May 03 2025,Grocery,895.75,INR,Debit,SETTLED
+20250504,Utility Bill,620,INR,Debit,PENDING
+05-05-25,ATM Withdrawal,1000.00,INR,Debit,SETTLED
+06 May 2025,Restaurant Bill,1450.90,INR,Debit,SETTLED
+2025-05-07,Subscription,299.00,INR,Debit,SETTLED
+08/05/2025,EMI Payment,"4,500",INR,Debit,SETTLED
+May 09 2025,Refund,"750.00",INR,Credit,SETTLED
+20250510,Mobile Recharge,199,INR,Debit,SETTLED
+11-05-25,Movie Tickets,380.00,INR,SETTLED,
+12 May 2025,Fuel,1580.20,INR,Debit,SETTLED
+2025-05-13,Consultation,3200,INR,Debit,PENDING
+05/14/2025,Interest,210.50,INR,Credit,SETTLED
+May 15 2025,Books,415.75,INR,Debit,SETTLED
+20250516,App Subscription,149,INR,Debit,SETTLED
+17-05-25,Home Repair,2100.00,INR,SETTLED
+18 May 2025,Dividend,"6,800.00",INR,Credit,SETTLED
+2025-05-19,Clothing,1599.99,INR,Debit,PENDING
+05/20/2025,Donation,750,INR,Debit,SETTLED
+May 21 2025,Online Purchase,95.20,INR,Debit,SETTLED
+20250522,Salary ,"42,000.00",INR,SETTLED
+23-05-25,Grocery Shopping,1150.30,INR,Debit,SETTLED
+24 May 2025,Utility,780,INR,Debit,PENDING
+2025-05-25,ATM Withdrawal,1200.00,INR,Debit,SETTLED
+05/26/2025,Restaurant,1680.55,INR,Debit,SETTLED
+May 27 2025,Subscription Fee,349.00,INR,Debit,SETTLED
+20250528,EMI ,"5,100",INR,Debit,SETTLED
+29-05-25,Refund Received,"920.00",INR,Credit,SETTLED
+30 May 2025,Mobile top-up,249,INR,Debit,SETTLED
+2025-05-31,Movie Ticket,490.00,INR,SETTLED
+06/01/2025,Fuel Purchase,1350.70,INR,Debit,SETTLED
+Jun 02 2025,Consultation Charges,3500,INR,Debit,PENDING
+20250603,Interest Payment,180.25,INR,Credit,SETTLED
+04-06-25,Book Purchase,485.90,INR,Debit,SETTLED
+05 Jun 2025,App Subscription Fee,179,INR,Debit,SETTLED
+2025-06-06,Home Maintenance,2350.00,INR,SETTLED
+06/07/2025,Dividend Income,"7,200.00",INR,Credit,SETTLED
+Jun 08 2025,Clothing Shopping,1899.50,INR,Debit,PENDING
+20250609,Donation to Charity,600,INR,Debit,SETTLED
+10-06-25,Online Purchase,110.80,INR,Debit,SETTLED
+11 Jun 2025,Salary Deposit ,"38,000.00",INR,SETTLED
+2025-06-12,Grocery Run,980.65,INR,Debit,SETTLED
+06/13/2025,Electricity Bill,850,INR,Debit,PENDING
+Jun 14 2025,ATM Cash,1500.00,INR,Debit,SETTLED
+20250615,Fine Payment,210.75,INR,Debit,SETTLED
+16-06-25,Subscription Service,319.00,INR,Debit,SETTLED
+17 Jun 2025,EMI Installment ,"4,800",INR,Debit,SETTLED
+2025-06-18,Cashback Received,"680.00",INR,Credit,SETTLED
+06/19/2025,Mobile Recharge,299,INR,Debit,PENDING
+Jun 20 2025,Movie Night,520.00,INR,SETTLED
+20250621,Fuel Refill,1280.40,INR,Debit,SETTLED
+22-06-25,Doctor Visit,1150,INR,Debit,SETTLED
+23 Jun 2025,Interest Credited,195.30,INR,Credit,SETTLED
+2025-06-24,Book Fair Purchase,395.15,INR,Debit,SETTLED
+06/25/2025,Software Subscription,169,INR,Debit,SETTLED
+Jun 26 2025,Home Improvement,2600.00,INR,SETTLED
+20250627,Dividend Payout,"8,100.00",INR,Credit,PENDING
+28-06-25,App Upgrade,119.00,INR,Debit,SETTLED
+29 Jun 2025,Clothing Store,1950.75,INR,Debit,SETTLED
+2025-06-30,Charity Donation,550,INR,Debit,SETTLED
+07/01/2025,Online Shopping,145.60,INR,Debit,SETTLED
+Jul 02 2025,Salary Transfer ,"33,500.00",INR,SETTLED
+20250703,Grocery Haul,1020.90,INR,Debit,SETTLED
+04-07-25,Electricity Bill Payment,910,INR,Debit,PENDING
+05 Jul 2025,ATM Cash Withdrawal,1300.00,INR,Debit,SETTLED
+2025-07-06,Fine for Late Payment,240.50,INR,Debit,SETTLED
+07/07/2025,Streaming Service,399.00,INR,Debit,SETTLED
+Jul 08 2025,EMI on Loan ,"5,300",INR,Debit,SETTLED
+20250709,Cashback Offer,"790.00",INR,Credit,SETTLED
+07-10-25,Mobile Bill Payment,349,INR,Debit,PENDING
+11 Jul 2025,Movie Outing,580.00,INR,SETTLED
+2025-07-12,Fuel Expense,1180.30,INR,Debit,SETTLED
+07/13/2025,Medical Consultation,1320,INR,Debit,SETTLED
+Jul 14 2025,Interest Received,225.15,INR,Credit,SETTLED
+20250715,Stationery Purchase,425.85,INR,Debit,SETTLED
+16-07-25,Gaming Subscription,199,INR,Debit,SETTLED
+17 Jul 2025,Home Renovation,2800.00,INR,SETTLED
+2025-07-18,Dividend Income ,"9,500.00",INR,Credit,PENDING
+07/19/2025,Apparel Shopping,1750.60,INR,Debit,PENDING
+Jul 20 2025,NGO Donation,650,INR,Debit,SETTLED
